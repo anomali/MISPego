@@ -7,9 +7,9 @@
 ######################################################
 
 # MISP BASE URL
-BASE_URL = 'YOUR_BASE_URL'
+BASE_URL = 'https://misppriv.circl.lu/'
 # API KEY
-API_KEY = 'YOUR_API_KEY'
+API_KEY = '7Dj2mdazZlte1XOmdVUQmShNYcwXBuGJhajI48Ds'
 # MISP_VERIFYCERT
 MISP_VERIFYCERT = False
 # pyMISP DEBUG
